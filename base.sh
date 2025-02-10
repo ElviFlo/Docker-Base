@@ -1,7 +1,7 @@
 #!/bin/bash
 
-REPO_URL="https://github.com/tu-usuario/benchmark-solutions.git"
-TARGET_DIR="/soluciones"
+REPO_URL="https://github.com/ElviFlo/Docker-soluciones.git"
+TARGET_DIR="/Soluciones"
 
 git clone $REPO_URL $TARGET_DIR
 cd $TARGET_DIR
